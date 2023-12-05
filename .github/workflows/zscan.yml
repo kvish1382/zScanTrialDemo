@@ -48,7 +48,7 @@ jobs:
         # REPLACE: Zimperium Client Environment Name
         client_env: mapsfreemium
         # REPLACE: Zimperium Client ID
-        client_id: iXlXY8WtRG6mMNny5hucYg
+        client_id: JOWnoj-ZRnqbO3QDnKkUHA
         # REPLACE: Zimperium Client Secret
         client_secret: ${{ secrets.ZSCAN_CLIENT_SECRET }}
         # REPLACE: The path to an .ipa or .apk
